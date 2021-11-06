@@ -81,7 +81,7 @@ export default {
       message2 : "Helle World Again!!!",
       message3 : "Type Here!",
       inputtype: "radio",
-      imagename : "kaws.png",
+      imagename : "bear.jpg",
       counter: 0,
       htmlText:"<b>HTML TEXT</b>&nbsp;",
       isGreeting: true,
